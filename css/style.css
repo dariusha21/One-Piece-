@@ -1,0 +1,29 @@
+body {
+  background-color: #E0FFFF;
+}
+
+hr {
+  border-style: none;
+  background-color: black;
+}
+
+p {
+  margin: 20px;
+  margin-bottom: 20px;
+  margin-right: 80px;
+  margin-left: 1px;
+  padding: 10px;
+}
+
+table {
+  width: 90%;
+  background: white;
+  color: black;
+  border-spacing: 2px;
+}
+
+td,
+th {
+  background: white;
+  padding: 5px;
+}
